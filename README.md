@@ -1,1 +1,1 @@
-link : https://wanderlust-ocd0.onrender.com
+link : https://wanderlust-ocd0.onrender.com/listings
